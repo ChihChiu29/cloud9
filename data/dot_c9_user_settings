@@ -1,0 +1,23 @@
+{
+    "ace": {
+        "@keyboardmode": "sublime"
+    },
+    "debug": {
+        "@pause": 0
+    },
+    "key-bindings": {
+        "@platform": "win"
+    },
+    "openfiles": {
+        "@show": false
+    },
+    "projecttree": {
+        "@showhidden": false
+    },
+    "tabs": {
+        "@show": true
+    },
+    "welcome": {
+        "@first": true
+    }
+}

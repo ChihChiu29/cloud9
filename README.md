@@ -1,2 +1,2 @@
-# cloud9
-Cloud9 editor, with some tweaks on initial configuration.
+# Cloud9
+Cloud9 IDE, with customized config tweaks.
